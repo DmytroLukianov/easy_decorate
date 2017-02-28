@@ -1,6 +1,6 @@
 # EasyDecorate
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/easy_decorate`. To experiment with that code, run `bin/console` for an interactive prompt.
+This gem helps you easily decorate your objects. There are generator for Rails.
 
 ## Installation
 

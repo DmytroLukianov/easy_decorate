@@ -16,10 +16,6 @@ And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ rails g easy_decorate:install
-
 ## Usage
 Decoretors generating
 
